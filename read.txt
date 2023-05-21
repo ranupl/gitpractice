@@ -1,0 +1,4 @@
+const read = () => 
+{
+	console.log("read file created");
+}
